@@ -1,4 +1,4 @@
-# Ex-03-Assignment: Installation of Oracle VM VirtualBox
+# Ex-03-Installation of Oracle VM VirtualBox
 
 ## Aim
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system, enabling the creation and management of virtual machines for running multiple operating systems on a single host machine.
